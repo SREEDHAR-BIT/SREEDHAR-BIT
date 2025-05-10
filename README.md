@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @SREEDHAR-BIT
+### 👋 Hi, I’m Sreedhar R 
 
 - 👀 I’m interested in **Web Development** and **Python**
 - 🌱 I’m currently learning **Python** and improving my **full-stack skills**
